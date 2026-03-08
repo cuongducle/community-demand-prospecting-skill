@@ -1,6 +1,6 @@
 ---
 name: community-demand-prospecting
-description: Research users, competitors, positioning, and high-intent community demand for a product, then draft safe outreach for channels like Reddit and X.
+description: Audit a repo or product, run market research and competitor research, choose positioning, find users, and draft safe Reddit or X outreach.
 ---
 
 # Community Demand Prospecting
@@ -10,6 +10,8 @@ description: Research users, competitors, positioning, and high-intent community
 Turn vague growth ideas into a repeatable workflow: find relevant community conversations, estimate intent, avoid bad-fit threads, and draft replies that help first and promote only when appropriate.
 
 Default to human-in-the-loop. This skill is for demand capture and community prospecting, not mass posting or deceptive automation.
+
+It is especially useful for repo audit, launch readiness, market research, competitor research, positioning, finding users for a product, and planning Reddit or X outreach.
 
 ## Quick Start
 
@@ -344,3 +346,9 @@ Use this skill for requests such as:
 - “Research the market for this product before suggesting marketing.”
 - “Find similar tools and tell me how users talk about this problem.”
 - “Figure out how this product should be positioned before we launch.”
+- “Do a repo audit before launch.”
+- “Run market research and competitor research for this app.”
+- “Help me find users for my product.”
+- “Create a launch strategy from this GitHub repo.”
+- “Plan Reddit outreach for this product.”
+- “Find customers for my app without spamming.”

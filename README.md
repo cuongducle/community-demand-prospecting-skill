@@ -2,7 +2,7 @@
 
 `community-demand-prospecting` helps developers turn a rough product, repo, or README into a launch-ready marketing workflow.
 
-It audits launch readiness, researches users and competing products, chooses a positioning angle, and drafts safe community outreach for channels such as Reddit and X.
+It handles repo audit, market research, competitor research, positioning, launch strategy, and safe community outreach for channels such as Reddit and X.
 
 ## Install
 
@@ -26,17 +26,34 @@ Manual:
 ## What It Covers
 
 - audit a repo or landing page before promotion
-- research users, competitors, substitutes, and category shape
+- run market research on users, competitors, substitutes, and category shape
 - choose a clear positioning angle
+- turn a GitHub repo into a launch strategy or product brief
+- help find users or customers for an early product
 - generate buyer-intent search queries
 - score threads by intent and risk
-- draft helpful-first replies with anti-spam guardrails
+- draft helpful-first Reddit outreach and X outreach with anti-spam guardrails
 
 ## Best For
 
 - developers shipping an early product without a polished marketing brief
 - founders who want to understand market demand before posting everywhere
 - teams that want structured outreach without turning into a spam bot
+
+## Search Terms
+
+People usually find this skill through phrases such as:
+
+- repo audit
+- market research
+- competitor research
+- positioning
+- launch strategy
+- find users for my product
+- Reddit outreach
+- X outreach
+- GitHub project marketing
+- product demand research
 
 ## Repository Layout
 
