@@ -1,8 +1,10 @@
 # Community Demand Prospecting Skill
 
-`community-demand-prospecting` helps developers turn a rough product, repo, or README into a launch-ready marketing workflow.
+`community-demand-prospecting` is a reusable skill for market research, competitor research, product positioning, launch strategy, and community demand analysis.
 
-It handles repo audit, market research, competitor research, positioning, launch strategy, and safe community outreach for channels such as Reddit and X.
+It helps developers turn a rough product, GitHub repository, or README into a clearer go-to-market plan. The workflow covers repo audit, demand research, positioning, customer language, and safe community outreach for channels such as Reddit and X.
+
+This repository is useful when people search for things like "market research for GitHub project", "competitor research skill", "product positioning workflow", "launch strategy for developer tools", or "how to find demand for my software product".
 
 ## Install
 
@@ -25,35 +27,48 @@ Manual:
 
 ## What It Covers
 
-- audit a repo or landing page before promotion
+- audit a repository, landing page, or README before promotion
 - run market research on users, competitors, substitutes, and category shape
-- choose a clear positioning angle
-- turn a GitHub repo into a launch strategy or product brief
-- help find users or customers for an early product
-- generate buyer-intent search queries
-- score threads by intent and risk
+- choose a sharper product positioning angle
+- turn a GitHub repo into a launch strategy, messaging brief, or product brief
+- help find early users or customers for a developer tool or software product
+- generate buyer-intent search queries and research directions
+- score community threads by intent, fit, and spam risk
 - draft helpful-first Reddit outreach and X outreach with anti-spam guardrails
+
+## Common Use Cases
+
+- validate demand before launching a new developer tool
+- understand competitors before writing a landing page
+- improve product positioning for an open-source repo
+- turn a side project into a clearer marketable product
+- research communities where target users already discuss the problem
 
 ## Best For
 
 - developers shipping an early product without a polished marketing brief
 - founders who want to understand market demand before posting everywhere
 - teams that want structured outreach without turning into a spam bot
+- open-source maintainers who want better positioning and distribution
 
 ## Search Terms
 
 People usually find this skill through phrases such as:
 
+- market research for software products
+- market research for GitHub repos
 - repo audit
 - market research
 - competitor research
-- positioning
+- product positioning
 - launch strategy
 - find users for my product
 - Reddit outreach
 - X outreach
 - GitHub project marketing
+- community demand prospecting
 - product demand research
+- go to market for developer tools
 
 ## Repository Layout
 
@@ -61,6 +76,10 @@ People usually find this skill through phrases such as:
 - `community-demand-prospecting/SKILL.md`: main workflow
 - `community-demand-prospecting/references/`: focused references loaded as needed
 - `community-demand-prospecting/assets/`: reusable templates
+
+## Why This Repo Exists
+
+Many developer tools and side projects fail distribution long before they fail technically. This skill exists to make market research, competitor research, product positioning, and early community discovery more systematic for repo-first products.
 
 ## Links
 
