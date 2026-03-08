@@ -1,6 +1,6 @@
 ---
 name: community-demand-prospecting
-description: Find high-intent demand for a product inside public communities, especially Reddit and X, then draft context-aware post ideas, replies, and comment strategies without defaulting to spammy promotion. Use when Codex needs to research where a product should engage, identify buyer-intent threads, decide whether engagement is appropriate, score lead quality, write helpful-first community replies, or turn a code repository into a launch-ready product brief for developers and product teams.
+description: Research users, competitors, positioning, and high-intent community demand for a product, then draft safe outreach for channels like Reddit and X.
 ---
 
 # Community Demand Prospecting
@@ -33,6 +33,52 @@ If the user only provides a repository, landing page, or README, start with a la
 - `assets/repo-audit-template.md`
 - `assets/market-scan-template.md`
 - `assets/positioning-brief-template.md`
+
+## Operating Sequence
+
+Run the skill in this order unless the user explicitly asks for a narrower deliverable:
+
+1. Extract or complete the product brief.
+2. Audit launch readiness if the input is a repo, README, or rough landing page.
+3. Research users, competitors, substitutes, and category shape.
+4. Choose one primary positioning angle.
+5. Translate the product into user pain-language.
+6. Generate search queries and locate candidate threads.
+7. Score each thread for intent and risk.
+8. Choose the engagement ladder.
+9. Draft outreach in platform-native style.
+10. Return a decision-oriented report.
+
+## Concrete Example
+
+Example request:
+
+```text
+I built a small developer tool. Audit the repo, research similar products, figure out the best positioning, then find Reddit threads where people are asking for alternatives and draft replies I could use.
+```
+
+Example output shape:
+
+```markdown
+## Launch blockers
+- No screenshot in README
+- Weak headline
+
+## Market summary
+- Crowded category with a few incumbents
+- Users switch when setup is too slow
+
+## Positioning
+- Primary angle: simplicity
+- One-line positioning: A lightweight alternative for developers who only need X
+
+## Opportunities
+1. Thread: <url>
+   - Intent: 5
+   - Risk: 2
+   - Mode: Soft mention
+   - Draft reply: ...
+```
 
 ## Workflow
 
