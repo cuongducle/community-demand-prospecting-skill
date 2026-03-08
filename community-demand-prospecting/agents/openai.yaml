@@ -1,0 +1,4 @@
+interface:
+  display_name: "Community Demand Prospecting"
+  short_description: "Find high-intent community demand safely"
+  default_prompt: "Use $community-demand-prospecting to find high-intent Reddit and X threads, score them, and draft safe replies for my product."
